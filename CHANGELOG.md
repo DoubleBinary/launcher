@@ -1,3 +1,8 @@
+# v0.0.5
+
+- Add F.A.Q. page
+  - Add `Join Server` button not working fix
+
 # v0.0.4
 
 - Add initial static news message
