@@ -1,3 +1,7 @@
+# v0.0.4
+
+- Add initial static news message
+
 # v0.0.3
 
 - Add social networks
