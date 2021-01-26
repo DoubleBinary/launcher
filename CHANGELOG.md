@@ -1,6 +1,12 @@
+# v0.0.7
+
+- Put installer on a diet
+  - Removed another 15mb from the download files (64mb -> 49mb)
+
 # v0.0.6
 
 - Optimise download size
+  - Removed 10mb from the download files (74mb -> 64mb)
 
 # v0.0.5
 
