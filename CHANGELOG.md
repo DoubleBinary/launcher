@@ -1,3 +1,7 @@
+# v0.0.6
+
+- Optimise download size
+
 # v0.0.5
 
 - Add F.A.Q. page
